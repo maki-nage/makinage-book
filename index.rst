@@ -10,11 +10,15 @@ Welcome to The Maki Nage Book's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   rationale
+   handson
+   howto
+   configuration
+
 
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
