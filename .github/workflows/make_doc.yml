@@ -31,10 +31,11 @@ jobs:
       run: |
         pwd
         ls
-        cd www && git config user.name github-actions
-        cd www && git config user.email github-actions@github.com
-        cd www && git rm -rf doc/makinage-book/latest
-        cp -r book/_build/html/* www/doc/makinage-book/latest
-        cd www && git add doc/makinage-book/latest
-        cd www && git commit -m "book: push latest"
-        cd www && git push
+        cd www
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git rm -rf doc/makinage-book/latest
+        cp -r ../book/_build/html/* www/doc/makinage-book/latest/
+        git add doc/makinage-book/latest
+        git commit -m "book: push latest"
+        git push
