@@ -29,8 +29,8 @@ jobs:
         cd book && make html
     - name: Publish master
       run: |
-        git config user.name github-actions
-        git config user.email github-actions@github.com
+        cd www && git config user.name github-actions
+        cd www && git config user.email github-actions@github.com
         cd www && git rm -rf doc/makinage-book/latest
         cp -r book/_build/html/* www/doc/makinage-book/latest
         cd www && git add doc/makinage-book/latest
