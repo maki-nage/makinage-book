@@ -11,11 +11,11 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: 3.8
-    - name: checkout
+    - name: Checkout
       - uses: actions/checkout@v2
         - with:
           path: book
-    - name: checkout site
+    - name: Checkout site
       - uses: actions/checkout@v2
         - with:
           repository: maki-nage/maki-nage.github.io
