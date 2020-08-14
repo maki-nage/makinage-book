@@ -27,7 +27,6 @@ jobs:
       run: |
         ls
         cd book && make html
-        print done
     - name: Publish master
       run: |
         git config user.name github-actions
