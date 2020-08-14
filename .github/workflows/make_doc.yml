@@ -26,16 +26,13 @@ jobs:
         python -m pip install sphinx sphinx-rtd-theme
     - name: Make doc
       run: |
-        ls
         cd book && make html
     - name: Publish master
       run: |
-        pwd
-        ls
         cd www
         git config user.name github-actions
         git config user.email github-actions@github.com
-        #git rm -rf doc/makinage-book/latest/*
+        git rm -rf --ignore-unmatch doc/makinage-book/latest/*
         install -d doc/makinage-book/latest
         cp -r ../book/_build/html/* doc/makinage-book/latest/
         git add doc/makinage-book/latest
