@@ -12,14 +12,14 @@ jobs:
       with:
         python-version: 3.8
     - name: Checkout
-      - uses: actions/checkout@v2
-        - with:
-          path: book
+      uses: actions/checkout@v2
+      with:
+        path: book
     - name: Checkout site
-      - uses: actions/checkout@v2
-        - with:
-          repository: maki-nage/maki-nage.github.io
-          path: www
+      uses: actions/checkout@v2
+      with:
+        repository: maki-nage/maki-nage.github.io
+        path: www
 
     - name: Install dependencies
       run: |
