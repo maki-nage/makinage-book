@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="236.17999"
+   inkscape:export-xdpi="236.17999"
+   inkscape:export-filename="/home/sah0023/develop/datalab/makinage/makinage-book/images/connectors.png"
+   sodipodi:docname="connectors.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   version="1.1"
+   id="svg7508"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs7510">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4338" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:snap-global="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1022"
+     inkscape:window-width="1680"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox="true"
+     showgrid="true"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="935.30011"
+     inkscape:cx="308.85671"
+     inkscape:zoom="1.4"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       spacingy="1"
+       spacingx="1"
+       originy="0"
+       originx="0"
+       id="grid7516"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7513">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Calque 1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="-137.78009"
+       y="238.49925"
+       id="text863"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan861"
+         x="-137.78009"
+         y="238.49925">io routing</tspan></text>
+    <rect
+       rx="9.5763426"
+       ry="9.5763426"
+       y="102.51968"
+       x="270"
+       height="19.152685"
+       width="148.15268"
+       id="rect1701"
+       style="fill:none;fill-opacity:1;stroke:#2c3e50;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text1705"
+       y="115.60188"
+       x="344.00146"
+       style="font-style:normal;font-weight:normal;font-size:13.33329964px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="115.60188"
+         x="344.00146"
+         id="tspan1703"
+         sodipodi:role="line">Operators</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#2c3e50;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect839"
+       width="10"
+       height="79.499214"
+       x="230"
+       y="72.519699"
+       ry="5"
+       rx="5" />
+    <rect
+       ry="10"
+       y="72.519676"
+       x="130"
+       height="20"
+       width="70"
+       id="rect841"
+       style="fill:none;fill-opacity:1;stroke:#2c3e50;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="10" />
+    <text
+       id="text845"
+       y="86.025543"
+       x="164.54753"
+       style="font-style:normal;font-weight:normal;font-size:13.33329964px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="86.025543"
+         x="164.54753"
+         id="tspan843"
+         sodipodi:role="line">sources</tspan></text>
+    <rect
+       rx="10"
+       style="fill:none;fill-opacity:1;stroke:#2c3e50;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect847"
+       width="70"
+       height="20"
+       x="130"
+       y="132.51968"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.33329964px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="164.54753"
+       y="146.02554"
+       id="text851"><tspan
+         sodipodi:role="line"
+         id="tspan849"
+         x="164.54753"
+         y="146.02554">kafka</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#2c3e50;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect853"
+       width="148.15268"
+       height="19.152685"
+       x="270"
+       y="182.51968"
+       ry="9.5763426"
+       rx="9.5763426" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.33329964px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="344.00146"
+       y="195.60187"
+       id="text857"><tspan
+         sodipodi:role="line"
+         id="tspan855"
+         x="344.00146"
+         y="195.60187">Injection Regulation</tspan></text>
+    <rect
+       rx="5"
+       ry="5"
+       y="72.519699"
+       x="450"
+       height="79.499214"
+       width="10"
+       id="rect859"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#2c3e50;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       transform="rotate(-90)"
+       id="text867"
+       y="458.49927"
+       x="-137.78009"
+       style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="458.49927"
+         x="-137.78009"
+         id="tspan865"
+         sodipodi:role="line">io routing</tspan></text>
+    <rect
+       rx="10"
+       style="fill:none;fill-opacity:1;stroke:#2c3e50;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect869"
+       width="70"
+       height="20"
+       x="490"
+       y="72.519676"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.33329964px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="524.54755"
+       y="86.025543"
+       id="text873"><tspan
+         sodipodi:role="line"
+         id="tspan871"
+         x="524.54755"
+         y="86.025543">sinks</tspan></text>
+    <rect
+       ry="10"
+       y="132.51968"
+       x="490"
+       height="20"
+       width="70"
+       id="rect875"
+       style="fill:none;fill-opacity:1;stroke:#2c3e50;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="10" />
+    <text
+       id="text879"
+       y="146.02554"
+       x="524.54755"
+       style="font-style:normal;font-weight:normal;font-size:13.33329964px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="146.02554"
+         x="524.54755"
+         id="tspan877"
+         sodipodi:role="line">kafka</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 200,82.51969 h 30"
+       id="path881"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 200,142.51969 h 30"
+       id="path883"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 240,112.51969 h 30"
+       id="path885"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 420,112.51969 h 30"
+       id="path887"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 460,82.51969 h 30"
+       id="path889"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 460,142.51969 h 30"
+       id="path891"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 560,142.51969 h 30 v 50 H 420"
+       id="path893"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 560,82.51969 h 30 v 60"
+       id="path895"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 270,192.51969 H 100 v -110 h 30"
+       id="path897"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 100,142.51969 h 30"
+       id="path899"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
